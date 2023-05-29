@@ -6,6 +6,9 @@ public class Exercicio04 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("------------------------------------");
+        System.out.println("Boas-Vindas a Calculadora de médias!");
+        System.out.println("------------------------------------");
         System.out.print("Digite a quantidade de números para calcular a média: ");
         int n = sc.nextInt();
         System.out.println("------------------");

@@ -19,6 +19,7 @@ public class Exercicio05 {
                 System.out.println("Você será o próximo a ser atendido!");
             }
         }
+        System.out.println("-----------------------------------------");
         System.out.println("Olá! Tudo bem? Como eu poderia te ajudar?");
     }
 }
